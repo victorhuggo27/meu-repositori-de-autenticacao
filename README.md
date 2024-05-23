@@ -16,3 +16,5 @@ $ git commit -m "Alteração do README"
 $ git push origin main
 
 git remote set-url origin - troca a url htpps para ssh
+
+branchs - são ramificações do meu codigo fonte onde posso fazer alterações sem alterar o todo só depois de outro como mando do git
