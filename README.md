@@ -13,4 +13,6 @@ Git config --global version
 
 Git add.
 $ git commit -m "Alteração do README"
-$ git push origin
+$ git push origin main
+
+git remote set-url origin - troca a url htpps para ssh
