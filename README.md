@@ -1,7 +1,8 @@
 # Meu Repositorio de AUTENTICAÇÃO
 Repositorio de estudo de Autenticação no Git e Github
 
-Git 
+Git
+git init - inicai o repertório no local
 Configuração da maquina local
 Git config –global user.name “victorhuggo”
 
