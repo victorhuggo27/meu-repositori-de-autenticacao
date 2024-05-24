@@ -41,4 +41,6 @@ após as alterações voltar para a branch que quer modifica
 **git tag -a v1.1 -m "versao1.1"
 (a- anotação) (v1.1 a versão do meu codigo) (-m mensagem)
  
+**RELEASES** Explica melhor as versões detalhando
+
 acervo de estudo git e git hub[https://aline-antunes.gitbook.io/formacao-fundamentos-github#git]
