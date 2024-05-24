@@ -35,5 +35,10 @@ após as alterações voltar para a branch que quer modifica
 
 **pull**,  - faz alterações no clone (fork) do repositorio: projeto do github de outra pessoa - **request** solicita a modificação
 
+
+**TAGS** - Marcando versões especificas do nosso codigo
+
+**git tag -a v1.1 -m "versao1.1"
+(a- anotação) (v1.1 a versão do meu codigo) (-m mensagem)
  
 acervo de estudo git e git hub[https://aline-antunes.gitbook.io/formacao-fundamentos-github#git]
